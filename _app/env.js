@@ -1,0 +1,1 @@
+export const env={"PUBLIC_MY_EMAIL":"hauntedlocketaudio@gmail.com"}
